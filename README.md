@@ -1,10 +1,14 @@
 # Hi, I'm Alani 👋
 
-### Cybersecurity Student | Security Operations | Threat Detection | Security Automation
+### IT Support & Cybersecurity | Systems • Networking • Security Operations
 
-I'm a Cybersecurity student at the University of South Carolina Upstate, graduating in December 2026. I have hands-on experience in security operations, threat hunting, incident investigation, vulnerability scanning, network analysis, and security automation.
+I'm a Cybersecurity student at the University of South Carolina Upstate, graduating in December 2026, with hands-on experience across both IT operations and cybersecurity.
 
-I'm particularly interested in Security Operations Center (SOC), Cybersecurity Analyst, Threat Detection, and Security Engineering roles.
+In IT, I support end users across hardware, software, accounts, and network connectivity; troubleshoot and repair desktop and laptop systems; image and deploy computers; manage technology assets; and support Windows, macOS, Microsoft 365, Google Workspace, Active Directory, iOS, and Android environments.
+
+In cybersecurity, I work with security monitoring, alert triage, threat hunting, incident investigation, vulnerability scanning, network analysis, and security automation using tools including Microsoft Sentinel, Microsoft Defender, Splunk, Nessus, Wireshark, KQL, Python, and PowerShell.
+
+I'm interested in opportunities across **IT Support, Help Desk, Desktop Support, IT Operations, Systems Support, Cybersecurity, and Security Operations**.
 
 ---
 
