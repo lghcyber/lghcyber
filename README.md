@@ -56,7 +56,7 @@ The project also incorporates a DeBERTa-v3 Natural Language Inference model to d
 
 > Repository coming soon.
 
-### 🌐 AI Network Threat Detection
+### AI Network Threat Detection
 Developed machine learning models to identify cybersecurity threats using the NSL-KDD network intrusion detection dataset.
 
 **Focus:** Network Security • Machine Learning • Intrusion Detection • Python
@@ -64,7 +64,7 @@ Developed machine learning models to identify cybersecurity threats using the NS
 🔗 **[View Project Repository](https://github.com/lghcyber/network-intrusion-detection-ml)**
 
 > Repository coming soon.
-### 📧 Spam Email Detection
+### Spam Email Detection
 Built a machine learning model to classify spam and legitimate emails using NLP, TF-IDF feature extraction, and Multinomial Naive Bayes.
 
 The model achieved **88.82% accuracy and 100% precision**, demonstrating strong performance at avoiding false-positive spam classifications.
@@ -73,26 +73,26 @@ The model achieved **88.82% accuracy and 100% precision**, demonstrating strong 
 
 🔗 **[View Project Repository](https://github.com/lghcyber/spam-email-detection-ml)**
 
-### 🍯 Cybersecurity Honeypot Lab
+### Cybersecurity Honeypot Lab
 Built and deployed a honeypot environment to observe potentially malicious network activity and support analysis of attacker behavior and techniques.
 
 **Focus:** Threat Detection • Network Security • Log Analysis • Security Operations
 
-### 🖧 Network Configuration Lab
+### Network Configuration Lab
 Built and configured a network using routers, switches, and desktop systems. Implemented VLANs, subnetting, DHCP, and inter-VLAN communication and verified network connectivity.
 
 **Focus:** TCP/IP • VLANs • DHCP • Subnetting • Routing & Switching
 
 🔗 **[View Project Repository](https://github.com/lghcyber/network-configuration-lab)**
 
-### 🎨 Collaborative Multi-User Drawing System
+### Collaborative Multi-User Drawing System
 Developed a real-time multi-user drawing application on Linux that processes multiple input devices simultaneously using Python, Pygame, evdev, and multithreading. Also explored low-level input handling with C++ and SDL2.
 
 **Focus:** Python • C++ • Linux • Multithreading • Concurrent Programming
 
 🔗 **[View Project Repository](https://github.com/lghcyber/collaborative-drawing-system)**
 
-### 🌐 Upstate Underground
+### Upstate Underground
 Building a full-stack website and volunteer training platform for a victim advocacy and support nonprofit.
 
 **Technologies:** Next.js • TypeScript • Supabase • PostgreSQL • Vercel • Moodle
@@ -119,15 +119,15 @@ Building a full-stack website and volunteer training platform for a victim advoc
 
 `Threat Hunting` `Incident Investigation` `Alert Triage` `Threat Detection` `Vulnerability Scanning` `Log Analysis` `Network Traffic Analysis`
 
-### ⚙️ Scripting & Automation
+### Scripting & Automation
 
 `Python` `PowerShell` `Bash` `SQL`
 
-### 🤖 Development & AI/ML
+### Development & AI/ML
 
 `Git` `GitHub` `Next.js` `TypeScript` `Supabase` `Pandas` `Scikit-learn` `XGBoost` `Machine Learning`
 
-### 📱 End-User & Device Support
+### End-User & Device Support
 
 `iOS` `Android` `Printers & Peripherals` `Account Access` `Technical Documentation` `Issue Escalation` `End-User Support`
 
