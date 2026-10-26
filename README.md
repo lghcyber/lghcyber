@@ -11,6 +11,19 @@ In cybersecurity, I work with security monitoring, alert triage, threat hunting,
 I'm interested in opportunities across **IT Support, Help Desk, Desktop Support, IT Operations, Systems Support, Cybersecurity, and Security Operations**.
 
 ---
+## 💻 IT Support & Operations Experience
+
+- 🖥️ Provide technical support to students, faculty, and staff across hardware, software, account, and connectivity issues
+- 🔧 Diagnose, repair, configure, and maintain desktop and laptop computers, printers, peripherals, and other end-user equipment
+- 💿 Image and reimage computers, restore standard configurations, and prepare systems for deployment
+- 👤 Support account access and identity-related issues using Active Directory and Microsoft 365
+- 🌐 Troubleshoot network connectivity across Wi-Fi, Ethernet/LAN, TCP/IP, DNS, and DHCP environments
+- 📦 Manage technology assets throughout the device lifecycle, including inventory, deployment, recovery, wiping, and decommissioning
+- 📱 Support Windows, macOS, iOS, Android, Google Workspace, and other end-user technologies
+- 📝 Document technical issues, troubleshooting steps, resolutions, and escalations
+- 🤝 Provide end-user guidance and technical support in a fast-paced university environment
+
+---
 
 ## 🔐 Cybersecurity Experience
 
