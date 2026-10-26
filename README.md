@@ -13,28 +13,28 @@ I'm interested in opportunities across **IT Support, Help Desk, Desktop Support,
 ---
 ## 💻 IT Support & Operations Experience
 
-- 🖥️ Provide technical support to students, faculty, and staff across hardware, software, account, and connectivity issues
-- 🔧 Diagnose, repair, configure, and maintain desktop and laptop computers, printers, peripherals, and other end-user equipment
-- 💿 Image and reimage computers, restore standard configurations, and prepare systems for deployment
-- 👤 Support account access and identity-related issues using Active Directory and Microsoft 365
-- 🌐 Troubleshoot network connectivity across Wi-Fi, Ethernet/LAN, TCP/IP, DNS, and DHCP environments
-- 📦 Manage technology assets throughout the device lifecycle, including inventory, deployment, recovery, wiping, and decommissioning
-- 📱 Support Windows, macOS, iOS, Android, Google Workspace, and other end-user technologies
-- 📝 Document technical issues, troubleshooting steps, resolutions, and escalations
-- 🤝 Provide end-user guidance and technical support in a fast-paced university environment
+-  Provide technical support to students, faculty, and staff across hardware, software, account, and connectivity issues
+-  Diagnose, repair, configure, and maintain desktop and laptop computers, printers, peripherals, and other end-user equipment
+-  Image and reimage computers, restore standard configurations, and prepare systems for deployment
+-  Support account access and identity-related issues using Active Directory and Microsoft 365
+-  Troubleshoot network connectivity across Wi-Fi, Ethernet/LAN, TCP/IP, DNS, and DHCP environments
+-  Manage technology assets throughout the device lifecycle, including inventory, deployment, recovery, wiping, and decommissioning
+-  Support Windows, macOS, iOS, Android, Google Workspace, and other end-user technologies
+-  Document technical issues, troubleshooting steps, resolutions, and escalations
+-  Provide end-user guidance and technical support in a fast-paced university environment
 
 ---
 
 ## 🔐 Cybersecurity Experience
 
-- 🛡️ Monitor and investigate security alerts using Microsoft Sentinel and Microsoft Defender
-- 🔎 Perform threat hunting across endpoint, identity, and network telemetry using KQL
-- 🚨 Investigate phishing, malware, unauthorized access, and other security events
-- 🎯 Develop and modify detection rules to improve security monitoring
-- 🔍 Conduct vulnerability scanning and analysis using Nessus
-- 📊 Analyze security logs and network traffic using Splunk and Wireshark
-- ⚙️ Build security automation with Python and PowerShell
-- 🍯 Built and deployed a honeypot environment to observe and analyze potentially malicious activity
+-  Monitor and investigate security alerts using Microsoft Sentinel and Microsoft Defender
+-  Perform threat hunting across endpoint, identity, and network telemetry using KQL
+-  Investigate phishing, malware, unauthorized access, and other security events
+-  Develop and modify detection rules to improve security monitoring
+-  Conduct vulnerability scanning and analysis using Nessus
+-  Analyze security logs and network traffic using Splunk and Wireshark
+-  Build security automation with Python and PowerShell
+-  Built and deployed a honeypot environment to observe and analyze potentially malicious activity
 
 ---
 
@@ -103,29 +103,33 @@ Building a full-stack website and volunteer training platform for a victim advoc
 
 ## 🛠️ Technical Skills
 
-**Security Operations**
+### 💻 IT Support & Systems
+
+`Windows` `macOS` `Linux/Ubuntu` `Microsoft 365` `Google Workspace` `Active Directory` `Azure`
+
+`Desktop & Laptop Support` `Hardware Troubleshooting` `Software Troubleshooting` `PC Imaging & Reimaging` `Device Deployment` `Asset Management`
+
+### 🌐 Networking
+
+`TCP/IP` `DNS` `DHCP` `VLANs` `Subnetting` `Wi-Fi` `Ethernet/LAN` `Routers & Switches` `Network Troubleshooting`
+
+### 🔐 Security Operations
 
 `Microsoft Sentinel` `Microsoft Defender` `Splunk` `Nessus` `Wireshark` `SIEM` `KQL`
 
-**Security**
+`Threat Hunting` `Incident Investigation` `Alert Triage` `Threat Detection` `Vulnerability Scanning` `Log Analysis` `Network Traffic Analysis`
 
-`Threat Hunting` `Incident Investigation` `Threat Detection` `Vulnerability Scanning` `Log Analysis` `Network Traffic Analysis`
-
-**Programming & Automation**
+### ⚙️ Scripting & Automation
 
 `Python` `PowerShell` `Bash` `SQL`
 
-**Networking**
+### 🤖 Development & AI/ML
 
-`TCP/IP` `DNS` `DHCP` `VLANs` `Subnetting` `Routers` `Switches`
+`Git` `GitHub` `Next.js` `TypeScript` `Supabase` `Pandas` `Scikit-learn` `XGBoost` `Machine Learning`
 
-**Systems & Cloud**
+### 📱 End-User & Device Support
 
-`Windows` `Linux` `macOS` `Active Directory` `Azure` `Microsoft 365`
-
-**Development & AI/ML**
-
-`Git` `Next.js` `TypeScript` `Supabase` `Machine Learning` `LangChain` `ChromaDB`
+`iOS` `Android` `Printers & Peripherals` `Account Access` `Technical Documentation` `Issue Escalation` `End-User Support`
 
 ---
 
@@ -144,10 +148,13 @@ Expected Graduation: December 2026
 
 ## 🎯 Current Focus
 
+## 🎯 Current Focus
+
+- IT Support & Technical Operations
+- Systems & Endpoint Support
+- Networking & Infrastructure
 - Security Operations & Incident Response
-- Threat Hunting & Detection Engineering
-- Cybersecurity Automation
-- Network Security
+- Threat Detection & Cybersecurity Automation
 - AI/ML Applications in Cybersecurity
 
 ---
