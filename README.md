@@ -45,11 +45,8 @@ Developed machine learning models to identify cybersecurity threats using the NS
 **Focus:** Network Security • Machine Learning • Intrusion Detection • Python
 
 🔗 **[View Project Repository](https://github.com/lghcyber/network-intrusion-detection-ml)**
-### 🍯 Cybersecurity Honeypot Lab
-Built and deployed a honeypot environment to observe potentially malicious network activity and support analysis of attacker behavior and techniques.
 
-**Focus:** Threat Detection • Network Security • Log Analysis • Security Operations
-
+> Repository coming soon.
 ### 📧 Spam Email Detection
 Built a machine learning model to classify spam and legitimate emails using NLP, TF-IDF feature extraction, and Multinomial Naive Bayes.
 
@@ -58,6 +55,11 @@ The model achieved **88.82% accuracy and 100% precision**, demonstrating strong 
 **Focus:** Cybersecurity • Machine Learning • NLP • Email Security
 
 🔗 **[View Project Repository](https://github.com/lghcyber/spam-email-detection-ml)**
+
+### 🍯 Cybersecurity Honeypot Lab
+Built and deployed a honeypot environment to observe potentially malicious network activity and support analysis of attacker behavior and techniques.
+
+**Focus:** Threat Detection • Network Security • Log Analysis • Security Operations
 
 ### 🖧 Network Configuration Lab
 Built and configured a network using routers, switches, and desktop systems. Implemented VLANs, subnetting, DHCP, and inter-VLAN communication and verified network connectivity.
