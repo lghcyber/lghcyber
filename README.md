@@ -66,7 +66,7 @@ Built and configured a network using routers, switches, and desktop systems. Imp
 
 **Focus:** TCP/IP • VLANs • DHCP • Subnetting • Routing & Switching
 
-> Repository coming soon.
+🔗 **[View Project Repository](https://github.com/lghcyber/network-configuration-lab)**
 
 ### 🌐 Upstate Underground
 Building a full-stack website and volunteer training platform for a victim advocacy and support nonprofit.
