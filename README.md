@@ -44,8 +44,7 @@ Developed machine learning models to identify cybersecurity threats using the NS
 
 **Focus:** Network Security • Machine Learning • Intrusion Detection • Python
 
-> Repository coming soon.
-
+🔗 **[View Project Repository](https://github.com/lghcyber/network-intrusion-detection-ml)**
 ### 🍯 Cybersecurity Honeypot Lab
 Built and deployed a honeypot environment to observe potentially malicious network activity and support analysis of attacker behavior and techniques.
 
