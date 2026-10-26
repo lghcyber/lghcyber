@@ -38,7 +38,7 @@ I'm interested in opportunities across **IT Support, Help Desk, Desktop Support,
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🏥 Machine Learning for Cyberattacks on Healthcare IoMT
 Developed a multiclass machine learning system to detect cyberattacks in healthcare IoMT network traffic using the MedSec-25 dataset. Compared Decision Tree, Random Forest, and XGBoost models across five traffic classes, with XGBoost achieving **98.97% accuracy**.
@@ -103,17 +103,17 @@ Building a full-stack website and volunteer training platform for a victim advoc
 
 ## 🛠️ Technical Skills
 
-### 💻 IT Support & Systems
+### IT Support & Systems
 
 `Windows` `macOS` `Linux/Ubuntu` `Microsoft 365` `Google Workspace` `Active Directory` `Azure`
 
 `Desktop & Laptop Support` `Hardware Troubleshooting` `Software Troubleshooting` `PC Imaging & Reimaging` `Device Deployment` `Asset Management`
 
-### 🌐 Networking
+### Networking
 
 `TCP/IP` `DNS` `DHCP` `VLANs` `Subnetting` `Wi-Fi` `Ethernet/LAN` `Routers & Switches` `Network Troubleshooting`
 
-### 🔐 Security Operations
+### Security Operations
 
 `Microsoft Sentinel` `Microsoft Defender` `Splunk` `Nessus` `Wireshark` `SIEM` `KQL`
 
@@ -146,9 +146,7 @@ Expected Graduation: December 2026
 
 ---
 
-## 🎯 Current Focus
-
-## 🎯 Current Focus
+## Current Focus
 
 - IT Support & Technical Operations
 - Systems & Endpoint Support
@@ -159,7 +157,7 @@ Expected Graduation: December 2026
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/alani-hodge)
 
