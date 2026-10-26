@@ -68,6 +68,13 @@ Built and configured a network using routers, switches, and desktop systems. Imp
 
 🔗 **[View Project Repository](https://github.com/lghcyber/network-configuration-lab)**
 
+### 🎨 Collaborative Multi-User Drawing System
+Developed a real-time multi-user drawing application on Linux that processes multiple input devices simultaneously using Python, Pygame, evdev, and multithreading. Also explored low-level input handling with C++ and SDL2.
+
+**Focus:** Python • C++ • Linux • Multithreading • Concurrent Programming
+
+🔗 **[View Project Repository](https://github.com/lghcyber/collaborative-drawing-system)**
+
 ### 🌐 Upstate Underground
 Building a full-stack website and volunteer training platform for a victim advocacy and support nonprofit.
 
