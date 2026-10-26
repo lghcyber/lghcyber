@@ -24,11 +24,11 @@ I'm particularly interested in Security Operations Center (SOC), Cybersecurity A
 ## 🚀 Featured Projects
 
 ### 🏥 Machine Learning for Cyberattacks on Healthcare IoMT
-Capstone research project applying machine learning to detect and analyze cyberattacks targeting Internet of Medical Things (IoMT) devices in healthcare environments.
+Developed a multiclass machine learning system to detect cyberattacks in healthcare IoMT network traffic using the MedSec-25 dataset. Compared Decision Tree, Random Forest, and XGBoost models across five traffic classes, with XGBoost achieving **98.97% accuracy**.
 
-**Focus:** Cybersecurity • Machine Learning • IoMT • Threat Detection
+**Focus:** Cybersecurity • Machine Learning • IoMT • Intrusion Detection • XGBoost
 
-> Repository coming soon.
+🔗 **[View Project Repository](https://github.com/lghcyber/healthcare-iomt-attack-detection)**
 
 ### 🤖 RAG Pipeline & Hallucination Detection
 Research project building a Retrieval-Augmented Generation pipeline using LangChain, ChromaDB, Sentence-Transformers, Qwen2.5-7B-Instruct, and BGE-large-en-v1.5 embeddings.
